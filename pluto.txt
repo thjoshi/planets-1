@@ -1,2 +1,2 @@
-Something about Pluto is hilarious.
+Something about Pluto.
 Fixed this line.
